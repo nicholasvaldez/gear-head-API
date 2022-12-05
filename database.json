@@ -1,0 +1,290 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Nick Valdez",
+            "email": "nick@thebandpacific.com"
+        },
+        {
+            "id": 2,
+            "name": "Will Hunter",
+            "email": "will@thebandpacific.com"
+        },
+        {
+            "id": 3,
+            "name": "Cory Andersen",
+            "email": "cory@thebandpacific.com"
+        },
+        {
+            "id": 4,
+            "name": "Nathaniel Philbrick",
+            "email": "nathaniel@keyzphilbrick.com"
+        },
+        {
+            "id": 5,
+            "name": "Jon Bellion",
+            "email": "jon@bellionbeats.com"
+        }
+    ],
+    "instrumentOptions": [
+        {
+            "id": 1,
+            "name": "Drums"
+        },
+        {
+            "id": 2,
+            "name": "Guitar"
+        },
+        {
+            "id": 3,
+            "name": "Keys"
+        },
+        {
+            "id": 4,
+            "name": "Music Production"
+        }
+        
+    ],
+    "userInstruments": [
+        {
+            "id": 1,
+            "userId": 1,
+            "instrumentOptionsId": 1
+        },
+        {
+            "id": 2,
+            "userId": 2,
+            "instrumentOptionsId": 2
+        },
+        {
+            "id": 3,
+            "userId": 3,
+            "instrumentOptionsId": 2
+        },
+        {
+            "id": 4,
+            "userId": 4,
+            "instrumentOptionsId": 3
+        },
+        {
+            "id": 5,
+            "userId": 5,
+            "instrumentOptionsId": 4
+        }
+    ],
+    "gearType": [
+        {
+            "id": 1,
+            "name": "Drum Shells",
+            "userInstrumentsId": 1
+        },
+        {
+            "id": 2,
+            "name": "Cymbals",
+            "userInstrumentsId": 1
+        },
+        {
+            "id": 3,
+            "name": "Snare Drum",
+            "userInstrumentsId": 1
+        },
+        {
+            "id": 4,
+            "name": "Hardware",
+            "userInstrumentsId": 1
+        },
+        {
+            "id": 5,
+            "name": "Accessories",
+            "userInstrumentsId": 1
+        },
+        {
+            "id": 6,
+            "name": "Microphones",
+            "userInstrumentsId": 1
+        },
+        {
+            "id": 7,
+            "name": "Drum Shells",
+            "userInstrumentsId": 1
+        },
+        {
+            "id": 8,
+            "name": "Drum Heads",
+            "userInstrumentsId": 1
+        },
+        {
+            "id": 9,
+            "name": "Electronics",
+            "userInstrumentsId": 1
+        },
+        {
+            "id": 10,
+            "name": "Performance Essential",
+            "userInstrumentsId": 1
+        },
+        {
+            "id": 11,
+            "name": "Guitars",
+            "userInstrumentsId": 2
+        },
+        {
+            "id": 12,
+            "name": "Amps",
+            "userInstrumentsId": 2
+        },
+        {
+            "id": 13,
+            "name": "Pedals",
+            "userInstrumentsId": 2
+        },
+        {
+            "id": 14,
+            "name": "Accessories",
+            "userInstrumentsId": 2
+        },
+        {
+            "id": 15,
+            "name": "Cables",
+            "userInstrumentsId": 2
+        },
+        {
+            "id": 16,
+            "name": "Pick-Ups",
+            "userInstrumentsId": 2
+        },
+        {
+            "id": 17,
+            "name": "Performance Essentials",
+            "userInstrumentsId": 2
+        },
+        {
+            "id": 18,
+            "name": "Digital",
+            "userInstrumentsId": 2
+        },
+        {
+            "id": 19,
+            "name": "Analog",
+            "userInstrumentsId": 2
+        },
+        {
+            "id": 20,
+            "name": "Keyboard",
+            "userInstrumentsId": 3
+        },
+        {
+            "id": 21,
+            "name": "MIDI",
+            "userInstrumentsId": 3
+        },
+        {
+            "id": 22,
+            "name": "Stands",
+            "userInstrumentsId": 3
+        },
+        {
+            "id": 23,
+            "name": "Benches",
+            "userInstrumentsId": 3
+        },
+        {
+            "id": 24,
+            "name": "Cases",
+            "userInstrumentsId": 3
+        },
+        {
+            "id": 25,
+            "name": "Performance Essentials",
+            "userInstrumentsId": 3
+        },
+        {
+            "id": 26,
+            "name": "DAW",
+            "userInstrumentsId": 4
+        },
+        {
+            "id": 27,
+            "name": "MIDI",
+            "userInstrumentsId": 4
+        },
+        {
+            "id": 28,
+            "name": "Audio Interface",
+            "userInstrumentsId": 4
+        },
+        {
+            "id": 29,
+            "name": "Pre-Amps",
+            "userInstrumentsId": 4
+        },
+        {
+            "id": 30,
+            "name": "Synths",
+            "userInstrumentsId": 4
+        },
+        {
+            "id": 31,
+            "name": "Drum Machines",
+            "userInstrumentsId": 4
+        },
+        {
+            "id": 32,
+            "name": "Microphones",
+            "userInstrumentsId": 4
+        },
+        {
+            "id": 33,
+            "name": "Monitors",
+            "userInstrumentsId": 4
+        },
+        {
+            "id": 34,
+            "name": "Plug-Ins/ VST's",
+            "userInstrumentsId": 4
+        },
+        {
+            "id": 35,
+            "name": "Instruments",
+            "userInstrumentsId": 4
+        },
+        {
+            "id": 36,
+            "name": "Misc.",
+            "userInstrumentsId": 4
+        }
+        
+    ],
+    "userOwnedGear": [
+        {
+            "id": 1,
+            "userid": 1,
+            "name": "Tama Silverstar",
+            "gearCategoryId": 1,
+            "datePurchased": "08/23/2014",
+            "pricePaid": 450,
+            "description": "5 piece, fusion sizes, birch wood",
+            "toUpgrade": true
+        },
+        {
+            "id": 2,
+            "userid": 1,
+            "name": "Zildjian K Dark Hi-Hat",
+            "gearCategoryId": 2,
+            "datePurchased": "05/05/2018",
+            "pricePaid": 500,
+            "description": "",
+            "toUpgrade": false
+        },
+        {
+            "id": 3,
+            "userid": 1,
+            "name": "DW 5000",
+            "gearCategoryId": 4,
+            "datePurchased": "02/03/2012",
+            "pricePaid": 400,
+            "description": "Single Pedal, Felt Beater, Double chain drive",
+            "toUpgrade": true
+        }
+    ]
+}
