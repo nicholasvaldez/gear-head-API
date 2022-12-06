@@ -72,7 +72,7 @@
             "instrumentOptionsId": 4
         }
     ],
-    "gearType": [
+    "gearTypes": [
         {
             "id": 1,
             "name": "Drum Shells",
@@ -258,9 +258,9 @@
     "userOwnedGear": [
         {
             "id": 1,
-            "userid": 1,
+            "userId": 1,
             "name": "Tama Silverstar",
-            "gearCategoryId": 1,
+            "gearTypeId": 1,
             "datePurchased": "08/23/2014",
             "pricePaid": 450,
             "description": "5 piece, fusion sizes, birch wood",
@@ -268,9 +268,9 @@
         },
         {
             "id": 2,
-            "userid": 1,
+            "userId": 1,
             "name": "Zildjian K Dark Hi-Hat",
-            "gearCategoryId": 2,
+            "gearTypeId": 2,
             "datePurchased": "05/05/2018",
             "pricePaid": 500,
             "description": "",
@@ -278,13 +278,23 @@
         },
         {
             "id": 3,
-            "userid": 1,
+            "userId": 1,
             "name": "DW 5000",
-            "gearCategoryId": 4,
+            "gearTypeId": 4,
             "datePurchased": "02/03/2012",
             "pricePaid": 400,
             "description": "Single Pedal, Felt Beater, Double chain drive",
             "toUpgrade": true
+        },
+        {
+            "id": 4,
+            "userId": 2,
+            "name": "Fender Jazzmaster in Graphite Pearl",
+            "gearTypeId": 11,
+            "datePurchased": "10/05/2017",
+            "pricePaid": 800,
+            "description": "PCR Pickups",
+            "toUpgrade": false
         }
     ]
 }
